@@ -1,0 +1,1 @@
+A C# implementation of The National Institute of Standards and Technology - A Statistical Test Suite for Random and Pseudorandom Number Generators for Cryptographic Applications. http://csrc.nist.gov/groups/ST/toolkit/rng/index.html
